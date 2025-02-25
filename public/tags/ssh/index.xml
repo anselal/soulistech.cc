@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssh on soulis.tech</title>
-    <link>http://localhost:1313/tags/ssh/</link>
+    <link>http://localhost:42115/tags/ssh/</link>
     <description>Recent content in Ssh on soulis.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:42115/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SSH config file</title>
-      <link>http://localhost:1313/snippets/1740480882694-ssh-config-file/</link>
+      <link>http://localhost:42115/snippets/1740480882694-ssh-config-file/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/1740480882694-ssh-config-file/</guid>
+      <guid>http://localhost:42115/snippets/1740480882694-ssh-config-file/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740480882694-ssh-config-file/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:42115/snippets/1740480882694-ssh-config-file/featured.png" />
     </item>
     
   </channel>

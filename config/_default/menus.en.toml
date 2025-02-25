@@ -17,3 +17,9 @@ weight = 9999
 
 [[footer]]
 none = "none"
+
+[[footer]]
+name = "Tags"
+pageRef = "/tags"
+identifier = "rELlHvO2GD"
+weight = 9999
