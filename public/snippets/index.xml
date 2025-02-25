@@ -12,6 +12,16 @@
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/snippets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Extract *.msi file content</title>
+      <link>http://localhost:1313/snippets/1740485350324-extract-.msi-file-content/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/snippets/1740485350324-extract-.msi-file-content/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740485350324-extract-.msi-file-content/featured.png" />
+    </item>
+    
+    <item>
       <title>Git merge --no-ff</title>
       <link>http://localhost:1313/snippets/1740473835778-git-merge---no-ff/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
@@ -19,6 +29,16 @@
       <guid>http://localhost:1313/snippets/1740473835778-git-merge---no-ff/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740473835778-git-merge---no-ff/featured.png" />
+    </item>
+    
+    <item>
+      <title>iptables</title>
+      <link>http://localhost:1313/snippets/1740485097758-iptables/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/snippets/1740485097758-iptables/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740485097758-iptables/featured.png" />
     </item>
     
     <item>

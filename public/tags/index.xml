@@ -12,11 +12,41 @@
     <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Command Line</title>
+      <link>http://localhost:1313/tags/command-line/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/tags/command-line/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>http://localhost:1313/tags/git/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
       <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iptables</title>
+      <link>http://localhost:1313/tags/iptables/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/tags/iptables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
       
     </item>
@@ -47,6 +77,16 @@
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
       <guid>http://localhost:1313/tags/ssh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
       
     </item>

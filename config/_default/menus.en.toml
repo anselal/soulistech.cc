@@ -3,8 +3,16 @@ none = "none"
 
 [[main]]
 name = "Snippets"
+pre = "code"
 pageRef = "snippets"
 identifier = "jUx3ewCfsR"
+weight = 9999
+
+[[main]]
+name = "Music"
+pre = "music"
+pageRef = "music"
+identifier = "sXF5qwqMFv"
 weight = 9999
 
 [[footer]]
