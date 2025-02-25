@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "soulis.tech"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[params.author]
+name = "Anastasios Selalmazidis"
+email = "t.selalmasidis@gmail.com"
+image = "myprofile_linkedin.jpg"
+headline = "I'm only human"
+bio = "IT Engineer"
+links = [
+  { email = "mailto:t.selalmasidis@gmail.com" },
+  { link = "https://soulis.tech"  },
+  { github = "https://github.com/anselal" },
+  { linkedin = "https://linkedin.com/in/anastasiosselalmazidis" },
+  { youtube = "https://youtube.com/@soulisyt" }
+]

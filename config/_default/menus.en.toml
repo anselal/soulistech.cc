@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Snippets"
+pageRef = "snippets"
+identifier = "jUx3ewCfsR"
+weight = 9999
+
+[[footer]]
+none = "none"
