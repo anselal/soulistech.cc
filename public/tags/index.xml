@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on soulis.tech</title>
-    <link>http://localhost:42115/tags/</link>
+    <link>http://localhost:46873/tags/</link>
     <description>Recent content in Tags on soulis.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:42115/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Command Line</title>
-      <link>http://localhost:42115/tags/command-line/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/command-line/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46873/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Git</title>
-      <link>http://localhost:42115/tags/git/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:46873/tags/git/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/git/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Iptables</title>
-      <link>http://localhost:42115/tags/iptables/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/iptables/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>http://localhost:42115/tags/music/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/music/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sed</title>
-      <link>http://localhost:42115/tags/sed/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/sed/</guid>
+      <guid>http://localhost:46873/tags/git/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Snippet</title>
-      <link>http://localhost:42115/tags/snippet/</link>
+      <link>http://localhost:46873/tags/snippet/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:46873/tags/snippet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Command Line</title>
+      <link>http://localhost:46873/tags/command-line/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/snippet/</guid>
+      <guid>http://localhost:46873/tags/command-line/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iptables</title>
+      <link>http://localhost:46873/tags/iptables/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:46873/tags/iptables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://localhost:46873/tags/music/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:46873/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sed</title>
+      <link>http://localhost:46873/tags/sed/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>http://localhost:46873/tags/sed/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ssh</title>
-      <link>http://localhost:42115/tags/ssh/</link>
+      <link>http://localhost:46873/tags/ssh/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/ssh/</guid>
+      <guid>http://localhost:46873/tags/ssh/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://localhost:42115/tags/windows/</link>
+      <link>http://localhost:46873/tags/windows/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:42115/tags/windows/</guid>
+      <guid>http://localhost:46873/tags/windows/</guid>
       <description></description>
       
     </item>

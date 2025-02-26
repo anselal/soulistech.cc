@@ -6,14 +6,21 @@ name = "Snippets"
 pre = "code"
 pageRef = "snippets"
 identifier = "jUx3ewCfsR"
-weight = 9999
+weight = 1
 
 [[main]]
 name = "Music"
 pre = "music"
 pageRef = "music"
 identifier = "sXF5qwqMFv"
-weight = 9999
+weight = 3
+
+[[main]]
+name = "Projects"
+pre = "codepen"
+pageRef = "/projects"
+identifier = "Jrdjo89eco"
+weight = 2
 
 [[footer]]
 none = "none"
