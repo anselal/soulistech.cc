@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soulis.tech</title>
-    <link>http://localhost:46873/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on soulis.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46873/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Create a bare git repository</title>
-      <link>http://localhost:46873/snippets/1740549850845-create-a-bare-git-repository/</link>
+      <link>http://localhost:1313/snippets/create-a-bare-git-repository/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740549850845-create-a-bare-git-repository/</guid>
+      <guid>http://localhost:1313/snippets/create-a-bare-git-repository/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740549850845-create-a-bare-git-repository/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/create-a-bare-git-repository/featured.png" />
     </item>
     
     <item>
       <title>Update last commit</title>
-      <link>http://localhost:46873/snippets/1740549954909-update-last-commit/</link>
+      <link>http://localhost:1313/snippets/update-last-commit/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740549954909-update-last-commit/</guid>
+      <guid>http://localhost:1313/snippets/update-last-commit/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740549954909-update-last-commit/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/update-last-commit/featured.png" />
     </item>
     
     <item>
       <title>Extract *.msi file content</title>
-      <link>http://localhost:46873/snippets/1740485350324-extract-.msi-file-content/</link>
+      <link>http://localhost:1313/snippets/extract-.msi-file-content/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740485350324-extract-.msi-file-content/</guid>
+      <guid>http://localhost:1313/snippets/extract-.msi-file-content/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740485350324-extract-.msi-file-content/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/extract-.msi-file-content/featured.png" />
     </item>
     
     <item>
       <title>Favourite coding music</title>
-      <link>http://localhost:46873/music/1740485907440-favourite-coding-music/</link>
+      <link>http://localhost:1313/music/favourite-coding-music/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/music/1740485907440-favourite-coding-music/</guid>
+      <guid>http://localhost:1313/music/favourite-coding-music/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/music/1740485907440-favourite-coding-music/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/favourite-coding-music/featured.png" />
     </item>
     
     <item>
       <title>Git merge --no-ff</title>
-      <link>http://localhost:46873/snippets/1740473835778-git-merge---no-ff/</link>
+      <link>http://localhost:1313/snippets/git-merge---no-ff/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740473835778-git-merge---no-ff/</guid>
+      <guid>http://localhost:1313/snippets/git-merge---no-ff/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740473835778-git-merge---no-ff/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-merge---no-ff/featured.png" />
     </item>
     
     <item>
       <title>iptables</title>
-      <link>http://localhost:46873/snippets/1740485097758-iptables/</link>
+      <link>http://localhost:1313/snippets/iptables/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740485097758-iptables/</guid>
+      <guid>http://localhost:1313/snippets/iptables/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740485097758-iptables/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/iptables/featured.png" />
     </item>
     
     <item>
       <title>Sed</title>
-      <link>http://localhost:46873/snippets/1740482705210-sed/</link>
+      <link>http://localhost:1313/snippets/sed/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740482705210-sed/</guid>
+      <guid>http://localhost:1313/snippets/sed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740482705210-sed/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/sed/featured.png" />
     </item>
     
     <item>
       <title>SSH config file</title>
-      <link>http://localhost:46873/snippets/1740480882694-ssh-config-file/</link>
+      <link>http://localhost:1313/snippets/ssh-config-file/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:46873/snippets/1740480882694-ssh-config-file/</guid>
+      <guid>http://localhost:1313/snippets/ssh-config-file/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46873/snippets/1740480882694-ssh-config-file/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/ssh-config-file/featured.png" />
     </item>
     
   </channel>
