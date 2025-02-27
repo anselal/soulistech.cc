@@ -13,12 +13,12 @@
     
     <item>
       <title>Favourite coding music</title>
-      <link>http://localhost:1313/music/1740485907440-favourite-coding-music/</link>
+      <link>http://localhost:1313/music/favourite-coding-music/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/music/1740485907440-favourite-coding-music/</guid>
+      <guid>http://localhost:1313/music/favourite-coding-music/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/1740485907440-favourite-coding-music/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/favourite-coding-music/featured.png" />
     </item>
     
   </channel>

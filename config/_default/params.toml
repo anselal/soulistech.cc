@@ -1,5 +1,5 @@
 colorScheme = "blowfish"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
@@ -8,6 +8,10 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "banner.jpg"
+# defaultFeaturedImage = ""
+highlightCurrentMenuArea = true
+
 
 [header]
 layout = "basic"
@@ -20,7 +24,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background" # profile
 showRecent = false
 showRecentItems = 5
 showMoreLink = false

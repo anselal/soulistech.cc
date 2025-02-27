@@ -13,32 +13,32 @@
     
     <item>
       <title>Create a bare git repository</title>
-      <link>http://localhost:1313/snippets/1740549850845-create-a-bare-git-repository/</link>
+      <link>http://localhost:1313/snippets/create-a-bare-git-repository/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/1740549850845-create-a-bare-git-repository/</guid>
+      <guid>http://localhost:1313/snippets/create-a-bare-git-repository/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740549850845-create-a-bare-git-repository/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/create-a-bare-git-repository/featured.png" />
     </item>
     
     <item>
       <title>Update last commit</title>
-      <link>http://localhost:1313/snippets/1740549954909-update-last-commit/</link>
+      <link>http://localhost:1313/snippets/update-last-commit/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/1740549954909-update-last-commit/</guid>
+      <guid>http://localhost:1313/snippets/update-last-commit/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740549954909-update-last-commit/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/update-last-commit/featured.png" />
     </item>
     
     <item>
       <title>Git merge --no-ff</title>
-      <link>http://localhost:1313/snippets/1740473835778-git-merge---no-ff/</link>
+      <link>http://localhost:1313/snippets/git-merge---no-ff/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/1740473835778-git-merge---no-ff/</guid>
+      <guid>http://localhost:1313/snippets/git-merge---no-ff/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/1740473835778-git-merge---no-ff/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-merge---no-ff/featured.png" />
     </item>
     
   </channel>

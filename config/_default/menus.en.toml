@@ -2,25 +2,61 @@
 none = "none"
 
 [[main]]
+name = "Home"
+pre = "location-dot"
+pageRef = "/"
+weight = 1
+
+[[main]]
 name = "Snippets"
 pre = "code"
 pageRef = "snippets"
 identifier = "jUx3ewCfsR"
-weight = 1
-
-[[main]]
-name = "Music"
-pre = "music"
-pageRef = "music"
-identifier = "sXF5qwqMFv"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Projects"
 pre = "codepen"
 pageRef = "/projects"
 identifier = "Jrdjo89eco"
-weight = 2
+weight = 3
+
+[[main]]
+name = "Music"
+pre = "music"
+pageRef = "music"
+identifier = "sXF5qwqMFv"
+weight = 4
+
+#[[main]]
+#name = "Social"
+#weight = 5
+
+#[[main]]
+#name = "Email"
+#parent = "Social"
+#url = "mailto:t.selalmasidis@gmail.com"
+
+#[[main]]
+#name = "Github"
+#parent = "Social"
+#url = "https://github.com/anselal"
+
+#[[main]]
+#name = "Linkedin"
+#parent = "Social"
+#url = "https://linkedin.com/in/anastasiosselalmazidis"
+
+#[[main]]
+#name = "Youtube"
+#parent = "Social"
+#url = "https://youtube.com/@soulisyt"
+
+#[[main]]
+#identifier = "github"
+#pre = "github"
+#url = "https://github.com/anselal"
+#weight = 4
 
 [[footer]]
 none = "none"
