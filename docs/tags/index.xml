@@ -1,152 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on soulis.tech</title>
-    <link>https://soulis.tech/tags/</link>
-    <description>Recent content in Tags on soulis.tech</description>
+    <title>Tags on blog.soulistech.cc</title>
+    <link>https://blog.soulistech.cc/tags/</link>
+    <description>Recent content in Tags on blog.soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulis.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.soulistech.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Snippet</title>
-      <link>https://soulis.tech/tags/snippet/</link>
+      <link>https://blog.soulistech.cc/tags/snippet/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/snippet/</guid>
+      <guid>https://blog.soulistech.cc/tags/snippet/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sshfs</title>
-      <link>https://soulis.tech/tags/sshfs/</link>
+      <link>https://blog.soulistech.cc/tags/sshfs/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/sshfs/</guid>
+      <guid>https://blog.soulistech.cc/tags/sshfs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Discord</title>
-      <link>https://soulis.tech/tags/discord/</link>
+      <link>https://blog.soulistech.cc/tags/discord/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/discord/</guid>
+      <guid>https://blog.soulistech.cc/tags/discord/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://soulis.tech/tags/docker/</link>
+      <link>https://blog.soulistech.cc/tags/docker/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/docker/</guid>
+      <guid>https://blog.soulistech.cc/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://soulis.tech/tags/git/</link>
+      <link>https://blog.soulistech.cc/tags/git/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/git/</guid>
+      <guid>https://blog.soulistech.cc/tags/git/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mining</title>
-      <link>https://soulis.tech/tags/mining/</link>
+      <link>https://blog.soulistech.cc/tags/mining/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/mining/</guid>
+      <guid>https://blog.soulistech.cc/tags/mining/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://soulis.tech/tags/project/</link>
+      <link>https://blog.soulistech.cc/tags/project/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/project/</guid>
+      <guid>https://blog.soulistech.cc/tags/project/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://soulis.tech/tags/python/</link>
+      <link>https://blog.soulistech.cc/tags/python/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/python/</guid>
+      <guid>https://blog.soulistech.cc/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Command Line</title>
-      <link>https://soulis.tech/tags/command-line/</link>
+      <link>https://blog.soulistech.cc/tags/command-line/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/command-line/</guid>
+      <guid>https://blog.soulistech.cc/tags/command-line/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Iptables</title>
-      <link>https://soulis.tech/tags/iptables/</link>
+      <link>https://blog.soulistech.cc/tags/iptables/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/iptables/</guid>
+      <guid>https://blog.soulistech.cc/tags/iptables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://soulis.tech/tags/music/</link>
+      <link>https://blog.soulistech.cc/tags/music/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/music/</guid>
+      <guid>https://blog.soulistech.cc/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sed</title>
-      <link>https://soulis.tech/tags/sed/</link>
+      <link>https://blog.soulistech.cc/tags/sed/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/sed/</guid>
+      <guid>https://blog.soulistech.cc/tags/sed/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ssh</title>
-      <link>https://soulis.tech/tags/ssh/</link>
+      <link>https://blog.soulistech.cc/tags/ssh/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/ssh/</guid>
+      <guid>https://blog.soulistech.cc/tags/ssh/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://soulis.tech/tags/windows/</link>
+      <link>https://blog.soulistech.cc/tags/windows/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulis.tech/tags/windows/</guid>
+      <guid>https://blog.soulistech.cc/tags/windows/</guid>
       <description></description>
       
     </item>

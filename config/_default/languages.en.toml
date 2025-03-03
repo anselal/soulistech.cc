@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "soulis.tech"
+title = "blog.soulistech.cc"
 
 [params]
 displayName = "EN"
@@ -18,7 +18,7 @@ headline = "IT Engineer"
 bio = "🐧 /dev/null"
 links = [
   { email = "mailto:t.selalmasidis@gmail.com" },
-  { link = "https://soulis.tech"  },
+  { link = "https://blog.soulistech.cc"  },
   { github = "https://github.com/anselal" },
   { linkedin = "https://linkedin.com/in/anastasiosselalmazidis" },
   { youtube = "https://youtube.com/@soulisyt" }
