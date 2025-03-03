@@ -3,91 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://soulis.tech/snippets/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://soulis.tech/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://soulis.tech/snippets/sshfs/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://soulis.tech/projects/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/antminer-monitor/</loc>
+    <loc>https://soulis.tech/projects/antminer-monitor/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/create-a-bare-git-repository/</loc>
+    <loc>https://soulis.tech/snippets/git-create-a-bare-repository/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/docker-isthmos/</loc>
+    <loc>https://soulis.tech/projects/docker-isthmos/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/hcr2soulisbot/</loc>
+    <loc>https://soulis.tech/projects/hcr2soulisbot/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/</loc>
+    <loc>https://soulis.tech/snippets/git-update-last-commit/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/snippets/update-last-commit/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/snippets/extract-.msi-file-content/</loc>
+    <loc>https://soulis.tech/snippets/extract-.msi-file-content/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/music/favourite-coding-music/</loc>
+    <loc>https://soulis.tech/music/favourite-coding-music/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/git-merge---no-ff/</loc>
+    <loc>https://soulis.tech/snippets/git-merge---no-ff/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/iptables/</loc>
+    <loc>https://soulis.tech/snippets/iptables/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/music/</loc>
+    <loc>https://soulis.tech/music/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/sed/</loc>
+    <loc>https://soulis.tech/snippets/sed/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/snippets/ssh-config-file/</loc>
+    <loc>https://soulis.tech/snippets/ssh-config-file/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

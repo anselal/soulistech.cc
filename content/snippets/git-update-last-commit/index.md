@@ -1,8 +1,8 @@
 ---
-title: "Update last commit"
+title: "Update last git commit"
 date: 2025-02-26
 draft: false
-description: "update last commit"
+description: "update last git commit"
 tags: ["snippet", "git"]
 ---
 

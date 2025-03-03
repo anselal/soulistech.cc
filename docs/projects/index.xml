@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soulis.tech</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://soulis.tech/projects/</link>
     <description>Recent content on soulis.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulis.tech/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Antminer Monitor</title>
-      <link>http://localhost:1313/projects/antminer-monitor/</link>
+      <link>https://soulis.tech/projects/antminer-monitor/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/antminer-monitor/</guid>
+      <guid>https://soulis.tech/projects/antminer-monitor/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/antminer-monitor/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulis.tech/projects/antminer-monitor/featured.png" />
     </item>
     
     <item>
       <title>Docker Isthmos</title>
-      <link>http://localhost:1313/projects/docker-isthmos/</link>
+      <link>https://soulis.tech/projects/docker-isthmos/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/docker-isthmos/</guid>
+      <guid>https://soulis.tech/projects/docker-isthmos/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/docker-isthmos/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulis.tech/projects/docker-isthmos/featured.png" />
     </item>
     
     <item>
       <title>HCR2 SoulisBot</title>
-      <link>http://localhost:1313/projects/hcr2soulisbot/</link>
+      <link>https://soulis.tech/projects/hcr2soulisbot/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/hcr2soulisbot/</guid>
+      <guid>https://soulis.tech/projects/hcr2soulisbot/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hcr2soulisbot/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulis.tech/projects/hcr2soulisbot/featured.png" />
     </item>
     
   </channel>

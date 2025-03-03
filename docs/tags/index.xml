@@ -2,141 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on soulis.tech</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://soulis.tech/tags/</link>
     <description>Recent content in Tags on soulis.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulis.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snippet</title>
+      <link>https://soulis.tech/tags/snippet/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>https://soulis.tech/tags/snippet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sshfs</title>
+      <link>https://soulis.tech/tags/sshfs/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>https://soulis.tech/tags/sshfs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Discord</title>
-      <link>http://localhost:1313/tags/discord/</link>
+      <link>https://soulis.tech/tags/discord/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/discord/</guid>
+      <guid>https://soulis.tech/tags/discord/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://soulis.tech/tags/docker/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://soulis.tech/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
+      <link>https://soulis.tech/tags/git/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/git/</guid>
+      <guid>https://soulis.tech/tags/git/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mining</title>
-      <link>http://localhost:1313/tags/mining/</link>
+      <link>https://soulis.tech/tags/mining/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/mining/</guid>
+      <guid>https://soulis.tech/tags/mining/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
+      <link>https://soulis.tech/tags/project/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/project/</guid>
+      <guid>https://soulis.tech/tags/project/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://soulis.tech/tags/python/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Snippet</title>
-      <link>http://localhost:1313/tags/snippet/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/snippet/</guid>
+      <guid>https://soulis.tech/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Command Line</title>
-      <link>http://localhost:1313/tags/command-line/</link>
+      <link>https://soulis.tech/tags/command-line/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/command-line/</guid>
+      <guid>https://soulis.tech/tags/command-line/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Iptables</title>
-      <link>http://localhost:1313/tags/iptables/</link>
+      <link>https://soulis.tech/tags/iptables/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/iptables/</guid>
+      <guid>https://soulis.tech/tags/iptables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>https://soulis.tech/tags/music/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>https://soulis.tech/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sed</title>
-      <link>http://localhost:1313/tags/sed/</link>
+      <link>https://soulis.tech/tags/sed/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/sed/</guid>
+      <guid>https://soulis.tech/tags/sed/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ssh</title>
-      <link>http://localhost:1313/tags/ssh/</link>
+      <link>https://soulis.tech/tags/ssh/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/ssh/</guid>
+      <guid>https://soulis.tech/tags/ssh/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://soulis.tech/tags/windows/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://soulis.tech/tags/windows/</guid>
       <description></description>
       
     </item>
