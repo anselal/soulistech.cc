@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Navigate to the root of your repository
+cd /home/soulis/Projects/myblog
+
+# Run the Hugo build command
+hugo
+
+# Check if the Hugo build was successful
+if [ $? -eq 0 ]; then
+    echo "Hugo build successful."
+
+    # Copy the contents of the public folder to /var/www/website
+    cp -r public/* /var/www/myblog
+
+    # Check if the copy was successful
+    if [ $? -eq 0 ]; then
+        echo "Website files copied to /var/www/myblog."
+    else
+        echo "Failed to copy website files."
+        exit 1
+    fi
+else
+    echo "Hugo build failed."
+    exit 1
+fi
