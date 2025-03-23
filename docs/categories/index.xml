@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on blog.soulistech.cc</title>
-    <link>https://blog.soulistech.cc/categories/</link>
-    <description>Recent content in Categories on blog.soulistech.cc</description>
+    <title>Categories on soulistech.cc</title>
+    <link>https://soulistech.cc/categories/</link>
+    <description>Recent content in Categories on soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <atom:link href="https://blog.soulistech.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://soulistech.cc/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
