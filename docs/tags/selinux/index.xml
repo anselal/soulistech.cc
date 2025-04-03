@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selinux on soulistech.cc</title>
+    <link>https://soulistech.cc/tags/selinux/</link>
+    <description>Recent content in Selinux on soulistech.cc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
+    <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
+    <copyright>© 2025 Anastasios Selalmazidis</copyright>
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulistech.cc/tags/selinux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Allow nginx to act as a reverse proxy</title>
+      <link>https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
+      <guid>https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
