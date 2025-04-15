@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on soulistech.cc</title>
-    <link>https://soulistech.cc/tags/git/</link>
+    <link>http://localhost:1313/tags/git/</link>
     <description>Recent content in Git on soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulistech.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Create a bare git repository</title>
-      <link>https://soulistech.cc/snippets/git-create-a-bare-repository/</link>
+      <link>http://localhost:1313/snippets/git-create-a-bare-repository/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulistech.cc/snippets/git-create-a-bare-repository/</guid>
+      <guid>http://localhost:1313/snippets/git-create-a-bare-repository/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-create-a-bare-repository/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-create-a-bare-repository/featured_git.png" />
     </item>
     
     <item>
       <title>Update last git commit</title>
-      <link>https://soulistech.cc/snippets/git-update-last-commit/</link>
+      <link>http://localhost:1313/snippets/git-update-last-commit/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulistech.cc/snippets/git-update-last-commit/</guid>
+      <guid>http://localhost:1313/snippets/git-update-last-commit/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-update-last-commit/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-update-last-commit/featured_git.png" />
     </item>
     
     <item>
       <title>Git merge --no-ff</title>
-      <link>https://soulistech.cc/snippets/git-merge---no-ff/</link>
+      <link>http://localhost:1313/snippets/git-merge---no-ff/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulistech.cc/snippets/git-merge---no-ff/</guid>
+      <guid>http://localhost:1313/snippets/git-merge---no-ff/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-merge---no-ff/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-merge---no-ff/featured_git.png" />
     </item>
     
   </channel>

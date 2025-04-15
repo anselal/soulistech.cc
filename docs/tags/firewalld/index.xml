@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firewalld on soulistech.cc</title>
-    <link>https://soulistech.cc/tags/firewalld/</link>
+    <link>http://localhost:1313/tags/firewalld/</link>
     <description>Recent content in Firewalld on soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulistech.cc/tags/firewalld/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/firewalld/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to setup firewalld</title>
-      <link>https://soulistech.cc/snippets/how-to-setup-firewalld/</link>
+      <link>http://localhost:1313/snippets/how-to-setup-firewalld/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>https://soulistech.cc/snippets/how-to-setup-firewalld/</guid>
+      <guid>http://localhost:1313/snippets/how-to-setup-firewalld/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/how-to-setup-firewalld/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/how-to-setup-firewalld/featured_firewall.png" />
     </item>
     
   </channel>
