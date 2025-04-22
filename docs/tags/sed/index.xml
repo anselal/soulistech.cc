@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sed on soulistech.cc</title>
-    <link>http://localhost:1313/tags/sed/</link>
+    <link>https://soulistech.cc/tags/sed/</link>
     <description>Recent content in Sed on soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulistech.cc/tags/sed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sed</title>
-      <link>http://localhost:1313/snippets/sed/</link>
+      <link>https://soulistech.cc/snippets/sed/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/sed/</guid>
+      <guid>https://soulistech.cc/snippets/sed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/sed/featured_bash.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/sed/featured_bash.png" />
     </item>
     
   </channel>

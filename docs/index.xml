@@ -2,153 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soulistech.cc</title>
-    <link>http://localhost:1313/</link>
+    <link>https://soulistech.cc/</link>
     <description>Recent content on soulistech.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</managingEditor>
     <webMaster>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</webMaster>
     <copyright>© 2025 Anastasios Selalmazidis</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://soulistech.cc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Allow nginx to act as a reverse proxy</title>
-      <link>http://localhost:1313/snippets/allow-nginx-to-act-as-a-reverse-proxy/</link>
+      <link>https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/allow-nginx-to-act-as-a-reverse-proxy/</guid>
+      <guid>https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/allow-nginx-to-act-as-a-reverse-proxy/featured_nginx.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/allow-nginx-to-act-as-a-reverse-proxy/featured_nginx.png" />
     </item>
     
     <item>
       <title>How to setup firewalld</title>
-      <link>http://localhost:1313/snippets/how-to-setup-firewalld/</link>
+      <link>https://soulistech.cc/snippets/how-to-setup-firewalld/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/how-to-setup-firewalld/</guid>
+      <guid>https://soulistech.cc/snippets/how-to-setup-firewalld/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/how-to-setup-firewalld/featured_firewall.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/how-to-setup-firewalld/featured_firewall.png" />
     </item>
     
     <item>
       <title>SSHFS</title>
-      <link>http://localhost:1313/snippets/sshfs/</link>
+      <link>https://soulistech.cc/snippets/sshfs/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/sshfs/</guid>
+      <guid>https://soulistech.cc/snippets/sshfs/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/sshfs/featured_ssh.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/sshfs/featured_ssh.png" />
     </item>
     
     <item>
       <title>Antminer Monitor</title>
-      <link>http://localhost:1313/projects/antminer-monitor/</link>
+      <link>https://soulistech.cc/projects/antminer-monitor/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/antminer-monitor/</guid>
+      <guid>https://soulistech.cc/projects/antminer-monitor/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/antminer-monitor/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/projects/antminer-monitor/featured.png" />
     </item>
     
     <item>
       <title>Create a bare git repository</title>
-      <link>http://localhost:1313/snippets/git-create-a-bare-repository/</link>
+      <link>https://soulistech.cc/snippets/git-create-a-bare-repository/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/git-create-a-bare-repository/</guid>
+      <guid>https://soulistech.cc/snippets/git-create-a-bare-repository/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-create-a-bare-repository/featured_git.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-create-a-bare-repository/featured_git.png" />
     </item>
     
     <item>
       <title>Docker Isthmos</title>
-      <link>http://localhost:1313/projects/docker-isthmos/</link>
+      <link>https://soulistech.cc/projects/docker-isthmos/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/docker-isthmos/</guid>
+      <guid>https://soulistech.cc/projects/docker-isthmos/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/docker-isthmos/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/projects/docker-isthmos/featured.png" />
     </item>
     
     <item>
       <title>HCR2 SoulisBot</title>
-      <link>http://localhost:1313/projects/hcr2soulisbot/</link>
+      <link>https://soulistech.cc/projects/hcr2soulisbot/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/projects/hcr2soulisbot/</guid>
+      <guid>https://soulistech.cc/projects/hcr2soulisbot/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hcr2soulisbot/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/projects/hcr2soulisbot/featured.png" />
     </item>
     
     <item>
       <title>Update last git commit</title>
-      <link>http://localhost:1313/snippets/git-update-last-commit/</link>
+      <link>https://soulistech.cc/snippets/git-update-last-commit/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/git-update-last-commit/</guid>
+      <guid>https://soulistech.cc/snippets/git-update-last-commit/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-update-last-commit/featured_git.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-update-last-commit/featured_git.png" />
     </item>
     
     <item>
       <title>Extract *.msi file content</title>
-      <link>http://localhost:1313/snippets/extract-.msi-file-content/</link>
+      <link>https://soulistech.cc/snippets/extract-.msi-file-content/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/extract-.msi-file-content/</guid>
+      <guid>https://soulistech.cc/snippets/extract-.msi-file-content/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/extract-.msi-file-content/featured_windows.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/extract-.msi-file-content/featured_windows.png" />
     </item>
     
     <item>
       <title>Favourite coding music</title>
-      <link>http://localhost:1313/music/favourite-coding-music/</link>
+      <link>https://soulistech.cc/music/favourite-coding-music/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/music/favourite-coding-music/</guid>
+      <guid>https://soulistech.cc/music/favourite-coding-music/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/favourite-coding-music/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/music/favourite-coding-music/featured.png" />
     </item>
     
     <item>
       <title>Git merge --no-ff</title>
-      <link>http://localhost:1313/snippets/git-merge---no-ff/</link>
+      <link>https://soulistech.cc/snippets/git-merge---no-ff/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/git-merge---no-ff/</guid>
+      <guid>https://soulistech.cc/snippets/git-merge---no-ff/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/git-merge---no-ff/featured_git.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/git-merge---no-ff/featured_git.png" />
     </item>
     
     <item>
       <title>iptables</title>
-      <link>http://localhost:1313/snippets/iptables/</link>
+      <link>https://soulistech.cc/snippets/iptables/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/iptables/</guid>
+      <guid>https://soulistech.cc/snippets/iptables/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/iptables/featured_firewall.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/iptables/featured_firewall.png" />
     </item>
     
     <item>
       <title>Sed</title>
-      <link>http://localhost:1313/snippets/sed/</link>
+      <link>https://soulistech.cc/snippets/sed/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/sed/</guid>
+      <guid>https://soulistech.cc/snippets/sed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/sed/featured_bash.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/sed/featured_bash.png" />
     </item>
     
     <item>
       <title>SSH config file</title>
-      <link>http://localhost:1313/snippets/ssh-config-file/</link>
+      <link>https://soulistech.cc/snippets/ssh-config-file/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <author>t.selalmasidis@gmail.com (Anastasios Selalmazidis)</author>
-      <guid>http://localhost:1313/snippets/ssh-config-file/</guid>
+      <guid>https://soulistech.cc/snippets/ssh-config-file/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snippets/ssh-config-file/featured_ssh.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://soulistech.cc/snippets/ssh-config-file/featured_ssh.png" />
     </item>
     
   </channel>
